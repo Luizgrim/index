@@ -1,0 +1,235 @@
+#charmander{  
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  
+ background: url("char.webp");
+ background-position: center;
+ background-size: cover;
+}
+#charmeleon{
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+
+ background: url("testee.webp");
+background-position: center;
+background-size: cover;
+} 
+#Charizard{
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+
+ background: url("Charizard.jpg");
+ background-position: center;
+ background-size: cover;
+} 
+
+#squirtle{
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+
+ background: url("Squir.webp");
+background-position: center;
+background-size: cover;
+}
+
+#wartortle{
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+
+ background: url("Wartortle.jpg");
+ background-position: center;
+ background-size: cover;
+}
+
+#Blastoise{
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+
+ background: url("Blastoise.jpg");
+ background-position: center;
+ background-size: cover;
+}
+
+#bubasaur{
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+
+ background: url("Buba.webp");
+ background-position: center;
+ background-size: cover;
+}
+
+#Ivysaur{
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+
+ background: url("Ivysaur.jpg");
+ background-position: center;
+ background-size: cover;
+}
+
+#Venusaur{
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+
+ background: url("Venusaur.jpg");
+ background-position: center;
+ background-size: cover;
+}
+
+#pichu{  
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  
+ background: url("Pichu.webp");
+ background-position: center;
+ background-size: cover;
+}
+
+#pikachu{
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+
+ background: url("Pikachu.webp");
+background-position: center;
+background-size: cover;
+}
+
+#raichu{
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+
+ background: url("Rai.webp");
+background-position: center;
+background-size: cover;
+}
+
+#POKEDÉXLUIZ{
+    display: flex;
+    justify-items: baseline;
+    padding-left: 9vw;
+    font-size: 2vw;
+    background-color:green;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: initial;
+}
+ .pokemon{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    margin: 10px;
+ }
+ .primeiro{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    margin: 10px;
+ }
+ .{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    margin: 10px;
+ }
+ #pokemons{
+  display: grid;
+  grid-template-columns: 1fr;
+ /* grid-template-rows: 100px 100px;*/
+
+ }
+.pokemon{
+  display: flex;
+
+  align-items: center;
+}
+#imagem{
+  width: 95vw;
+  height: auto;
+  justify-self: center;
+  display: flex ;
+}
+.atributos{
+  margin: 0px;
+}
+#cartepier{  
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  
+ background: url("cart.webp");
+ background-position: center;
+ background-size: cover;
+}
+#metapod{  
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  
+ background: url("meta.jpg");
+ background-position: center;
+ background-size: cover;
+}
+#butterfree{  
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  
+ background: url("butter.png");
+ background-position: center;
+ background-size: cover;
+}
+
+
+
+body {
+    cursor: url("cursor1.png"), auto;
+    
+
+}
+#insignias img{
+  width:150px;
+  heigt: 50px;
+}

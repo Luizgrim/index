@@ -1,0 +1,143 @@
+@media (min-width: 648px) {
+  #imagem {
+    width: 100vw;
+    height: auto;
+  }
+
+  .pokemon{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    margin: 10px;
+
+  }
+
+  #charmander, #Charizard{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+
+  }
+  
+
+  #squirtle{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  }
+  #wartortle{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  }
+ #Blastoise{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  }
+
+  #bubasaur{
+   display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  }
+  #Ivysaur{
+   display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  }
+  #Venusaur{
+   display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  }
+  #pichu{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  
+  }
+  #pikachu{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  }
+   #raichu{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  
+  }
+#pokemons{
+  display: grid;
+  grid-template-columns: 1fr  1fr;
+ /* grid-template-rows: 100px 100px;*/
+
+ }
+.pokemon{
+  display: flex;
+  
+  align-items: center;
+}
+}
+@media (min-width: 769px) {
+  #pokemons{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+ /* grid-template-rows: 100px 100px;*/
+
+ }
+.pokemon{
+  display: flex;
+  
+  align-items: center;
+    
+  }
+}
+#cartepier{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  
+  }
+  #metapod{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  
+  }
+
+  #butterfree{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: darkgreen;
+  
+  }
+
+  
